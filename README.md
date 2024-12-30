@@ -2,6 +2,16 @@
 
 Este repositorio contiene el frontend del proyecto **Coally Challenge**, desarrollado con `Vite` + `React v18` + `TypeScript v5.5.3`.
 
+
+## Url del deploy
+    https://coally-frontend-k492w733f-kevob1994s-projects.vercel.app/
+
+#### Las credenciales para ingresar a la app son
+
+    email: user@test.com
+    constraseña: ContrasenaPrueba
+
+
 ## Requisitos Previos
 
 Antes de ejecutar el proyecto, asegúrate de tener instalados los siguientes requisitos:
